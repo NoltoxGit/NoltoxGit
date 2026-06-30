@@ -73,7 +73,7 @@ I like contributing to online projects, improving tools I use, fixing issues whe
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NoltoxGit&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.paulmuller.dev/?username=NoltoxGit&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub trophies" />
 
 </div>
 
