@@ -107,22 +107,6 @@ I build small tools, experiments and Minecraft-related projects to learn, test i
 
 ---
 
-## 🤝 Links
-
-<div align="center">
-
-<a href="https://github.com/NoltoxGit">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
-
-<a href="https://heavencube.fr/">
-<img src="https://img.shields.io/badge/HeavenCube-58A6FF?style=for-the-badge" alt="HeavenCube" />
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### “Learning by building, improving by contributing.”
