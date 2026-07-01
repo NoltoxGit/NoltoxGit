@@ -46,7 +46,7 @@ I like contributing to online projects, improving tools I use, fixing issues whe
 
 These are technologies and tools I have used in personal, academic or professional contexts. I do not claim expert-level mastery of every item, but I have already worked with them and can find my way around them when needed.
 
-<img src="https://builder.syvixor.com/?perline=15&i=java,javascript,typescript,python,php,html,css3,markdown,yaml,toml,mysql,mariadb,sqlite,sqlalchemy,wordpress,stripe,papermc,purpur,fabricmc,neoforge,velocity,arduino,git,gitbash,github,gitlab,githubactions,githubpages,dependabot,pull,gradle,apachemaven,vercel,cloudflare,visualstudiocode,intellijidea,notepadplusplus,atom,gitbook,trello,notion,obsidian,discord,discordbots,bluesky,firefox,vivaldi,chatgpt,codex,googlegemini,claudeai" alt="Tech stack" />
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=java,javascript,typescript,python,php,html,css3,markdown,yaml,toml,mysql,mariadb,sqlite,sqlalchemy,wordpress,stripe,papermc,purpur,fabricmc,neoforge,velocity,arduino,git,gitbash,github,gitlab,githubactions,githubpages,dependabot,pull,gradle,apachemaven,vercel,cloudflare,visualstudiocode,intellijidea,notepadplusplus,atom,gitbook,trello,notion,obsidian,discord,discordbots,bluesky,firefox,vivaldi,chatgpt,codex,googlegemini,claudeai" alt="Tech stack" />
 
 </div>
 
