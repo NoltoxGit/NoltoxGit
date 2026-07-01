@@ -44,7 +44,7 @@ I like contributing to online projects, improving tools I use, fixing issues whe
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,ts,js,react,nodejs,html,css,mysql,postgres,sqlite,git,github,gradle,docker,linux,vscode,idea&perline=10" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,ts,js,react,nodejs,html,css,mysql,mariadb,sqlite,git,github,gradle,maven,linux,vscode,idea&perline=10" alt="Tech stack" />
 
 </div>
 
