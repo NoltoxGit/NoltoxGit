@@ -54,8 +54,8 @@ I like contributing to online projects, improving tools I use, fixing issues whe
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NoltoxGit&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoltoxGit&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=NoltoxGit&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=NoltoxGit&layout=compact&langs_count=10&theme=tokyonight" alt="Top languages" />
 
 <br><br>
 
@@ -93,7 +93,7 @@ I enjoy contributing fixes, improvements and documentation to projects I use or 
 
 ### ⚙️ Personal projects
 
-I build small tools, experiments and Minecraft-related projects to learn, test ideas and improve my workflow.
+I build various small tools, experiments and Minecraft-related projects to learn, test ideas and improve my development skills.
 
 ---
 
