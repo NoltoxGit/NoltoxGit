@@ -32,11 +32,11 @@ I like contributing to online projects, improving tools I use, fixing issues whe
 
 ## 🌍 What I work on
 
-* 🎓 Studying computer science in **BTS SIO SLAM**
+* 🎓 Studying computer science in **BTS SIO __SLAM__** *(09/2025 ➜ 08/2027)*
 * 🌍 Managing and improving **HeavenCube**
 * 🧩 Contributing to open-source projects
 * ⚙️ Building tools, scripts and Minecraft-related projects
-* 📚 Learning Java, Kotlin, Python, web development and infrastructure
+* 📚 Learning Java, Kotlin, Python, web development *and some other languages*
 
 ---
 
@@ -81,24 +81,6 @@ These are technologies and tools I have used in personal, academic or profession
 
 ---
 
-## ✨ Featured
-
-### 🌍 HeavenCube
-
-A French Minecraft server built around custom gameplay, original content and a community-driven experience.
-
-🔗 **Website:** [heavencube.fr](https://heavencube.fr/)
-
-### 🧩 Open Source
-
-I enjoy contributing fixes, improvements and documentation to projects I use or appreciate.
-
-### ⚙️ Personal projects
-
-I build various small tools, experiments and Minecraft-related projects to learn, test ideas and improve my development skills.
-
----
-
 ## 🐍 Contributions
 
 <div align="center">
@@ -106,6 +88,34 @@ I build various small tools, experiments and Minecraft-related projects to learn
 ![Snake animation](https://raw.githubusercontent.com/NoltoxGit/NoltoxGit/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+---
+
+## ✨ Featured
+
+### 🌍 HeavenCube
+
+A French Minecraft server built around custom gameplay, original content and a community-driven experience!
+> 🔗 **Website:** [heavencube.fr](https://heavencube.fr/)
+
+### 🧩 Open Source
+
+I enjoy contributing fixes, improvements and documentation to projects I use or appreciate by submitting pull requests, reporting issues and helping other users.
+
+---
+
+## 🔗 Connect with me
+
+| Platform | Account / Link |
+| --- | --- |
+| Website / Portfolio | [paulmuller.dev](https://paulmuller.dev/) |
+| Email | paulmuller78210@gmail.com |
+| Discord | @Noltox.fr *`394382265662046208`* |
+| LinkedIn | [paul-muller-213349326](https://linkedin.com/in/paul-muller-213349326) |
+| GitHub | [NoltoxGit](https://github.com/NoltoxGit) |
+| GitLab | [NoltoxGit](https://gitlab.com/NoltoxGit) |
+| Bluesky | [@noltox.fr](https://bsky.app/profile/noltox.fr) |
+| Minecraft / HeavenCube | [heavencube.fr](https://heavencube.fr/) |
 
 ---
 
