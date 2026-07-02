@@ -109,12 +109,12 @@ I enjoy contributing fixes, improvements and documentation to projects I use or 
 | Platform | Account / Link |
 | --- | --- |
 | Website / Portfolio | [paulmuller.dev](https://paulmuller.dev/) |
-| Email | paulmuller78210@gmail.com |
-| Discord | @Noltox.fr *`394382265662046208`* |
+| Email | pro.paulmuller@gmail.com |
 | LinkedIn | [paul-muller-213349326](https://linkedin.com/in/paul-muller-213349326) |
+| Bluesky | [@noltox.fr](https://bsky.app/profile/noltox.fr) |
 | GitHub | [NoltoxGit](https://github.com/NoltoxGit) |
 | GitLab | [NoltoxGit](https://gitlab.com/NoltoxGit) |
-| Bluesky | [@noltox.fr](https://bsky.app/profile/noltox.fr) |
+| Discord | @noltox.fr *`394382265662046208`* |
 | Minecraft / HeavenCube | [heavencube.fr](https://heavencube.fr/) |
 
 ---
