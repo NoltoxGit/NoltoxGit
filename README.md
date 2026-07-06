@@ -6,10 +6,10 @@
 
 <br>
 
-🎓 **BTS SIO SLAM Student**
-🌍 Manager of **[HeavenCube](https://heavencube.fr/)**
-🧩 Open-source contributor
-⚙️ Interested in Minecraft development, automation, web tools and software engineering
+* 🎓 **BTS SIO SLAM Student**
+* 🌍 Manager of **[HeavenCube](https://heavencube.fr/)**
+* 🧩 Open-source contributor
+* ⚙️ Interested in Minecraft development, automation, web tools and software engineering
 
 <br>
 
