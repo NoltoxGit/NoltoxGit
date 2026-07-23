@@ -56,7 +56,7 @@ These are technologies and tools I have used in personal, academic or profession
 
 <div align="center">
 
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=NoltoxGit&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=NoltoxGit&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=one_dark_pro)](https://github-stats-extended.vercel.app/api?username=NoltoxGit&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=one_dark_pro)
 <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=NoltoxGit&layout=compact&langs_count=10&theme=tokyonight" alt="Top languages" />
 
 <br><br>
