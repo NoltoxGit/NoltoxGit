@@ -33,10 +33,9 @@ I like contributing to online projects, improving tools I use, fixing issues whe
 ## 🌍 What I work on
 
 * 🎓 Studying computer science in **BTS SIO __SLAM__** *(09/2025 ➜ 08/2027)*
-* 🌍 Managing and improving **HeavenCube**
+* 🌍 Managing & developing some ideas, plugins, _weird stuff_ on [**HeavenCube**](https://heavencube.fr/)
 * 🧩 Contributing to open-source projects
-* ⚙️ Building tools, scripts and Minecraft-related projects
-* 📚 Learning Java, Kotlin, Python, web development *and some other languages*
+* 📚 Learning Java (Kotlin), Python, SQL, web development *and some other languages*
 
 ---
 
@@ -115,12 +114,11 @@ I enjoy contributing fixes, improvements and documentation to projects I use or 
 | GitHub | [NoltoxGit](https://github.com/NoltoxGit) |
 | GitLab | [NoltoxGit](https://gitlab.com/NoltoxGit) |
 | Discord | @noltox.fr *`394382265662046208`* |
-| Minecraft / HeavenCube | [heavencube.fr](https://heavencube.fr/) |
 
 ---
 
 <div align="center">
 
-### “Learning by building, improving by contributing.”
+### 🪇 “Learning by building, improving by contributing.”
 
 </div>
