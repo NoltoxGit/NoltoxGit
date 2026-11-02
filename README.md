@@ -74,7 +74,7 @@ These are technologies and tools I have used in personal, academic or profession
 
 <div align="center">
 
-<img src="https://github-profile-trophy-forked-git-master-noltoxgit.vercel.app/?username=NoltoxGit&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.paulmuller.dev/?username=NoltoxGit&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub trophies" />
 
 </div>
 
