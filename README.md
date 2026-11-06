@@ -60,7 +60,7 @@ These are technologies and tools I have used in personal, academic or profession
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=NoltoxGit&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://github-activity.paulmuller.dev/streak.svg" alt="GitHub streak" />
 
 <br><br>
 
