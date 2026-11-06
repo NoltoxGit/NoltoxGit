@@ -64,7 +64,7 @@ These are technologies and tools I have used in personal, academic or profession
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NoltoxGit&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+[View my contribution activity on GitHub](https://github.com/NoltoxGit#contribution-activity)
 
 </div>
 
@@ -74,7 +74,7 @@ These are technologies and tools I have used in personal, academic or profession
 
 <div align="center">
 
-<img src="https://github-profile-trophy.paulmuller.dev/?username=NoltoxGit&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub trophies" />
+[View my GitHub achievements](https://github.com/NoltoxGit?tab=achievements)
 
 </div>
 
