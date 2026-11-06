@@ -74,7 +74,7 @@ These are technologies and tools I have used in personal, academic or profession
 
 <div align="center">
 
-[View my GitHub achievements](https://github.com/NoltoxGit?tab=achievements)
+<img src="https://trophy.ryglcloud.net/?username=NoltoxGit&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub trophies" />
 
 </div>
 
