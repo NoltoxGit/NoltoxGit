@@ -64,7 +64,7 @@ These are technologies and tools I have used in personal, academic or profession
 
 <br><br>
 
-[View my contribution activity on GitHub](https://github.com/NoltoxGit#contribution-activity)
+[View my contribution activity on GitHub](https://github.com/NoltoxGit#js-contribution-activity-description)
 
 </div>
 
