@@ -44,7 +44,7 @@ export default {
     if (new URL(request.url).pathname !== "/activity.svg") return new Response("Not found", { status: 404 });
     const cache = caches.default;
     const saved = await cache.match(cacheKey);
-    if (saved && Date.now() - Number(saved.headers.get("X-Generated-At")) < 3600000) return saved;
+    if (saved && Date.now() - Number(saved.headers.get("X-Generated-At")) < 3600000) { const out = new Response(saved.body, saved); out.headers.set("Cache-Control", "public, max-age=3600"); return out; }
     try {
       const svg = await generate();
       const result = new Response(svg, {headers: {
@@ -59,7 +59,7 @@ export default {
       return out;
     } catch (error) {
       console.error(JSON.stringify({event:"activity_generation_failed", message:String(error)}));
-      if (saved) return saved;
+      if (saved) { const out = new Response(saved.body, saved); out.headers.set("Cache-Control", "public, max-age=300"); return out; }
       return new Response("Contribution graph temporarily unavailable", {status:503, headers:{"Cache-Control":"no-store"}});
     }
   }
