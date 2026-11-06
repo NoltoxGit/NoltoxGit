@@ -64,7 +64,7 @@ These are technologies and tools I have used in personal, academic or profession
 
 <br><br>
 
-<img src="https://noltox-profile-activity.paulmuller78210.workers.dev/activity.svg" alt="Contribution graph" />
+<img src="https://github-activity.paulmuller.dev/activity.svg" alt="Contribution graph" />
 
 </div>
 
